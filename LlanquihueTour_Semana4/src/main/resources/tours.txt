@@ -1,0 +1,5 @@
+Isla Huar;Calbuco;1200
+Volcán Osorno;Puerto Varas;1800
+Lago Todos los Santos;Petrohué;950
+Saltos del Petrohué;Puerto Varas;1500
+Frutillar Cultural;Frutillar;800
